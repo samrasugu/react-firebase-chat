@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
+.App P {
+  text-align: center;
+}
+
 .App header {
   background-color: #181717;
   height: 10vh;
@@ -151,4 +155,8 @@ img {
   height: 40px;
   border-radius: 50%;
   margin: 2px 5px;
+}
+
+.comm-guide {
+  text-align: center;
 }
